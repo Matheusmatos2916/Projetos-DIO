@@ -1,0 +1,4 @@
+[2024-05-24 13:16:17] Função 'criar_cliente' executada com argumentos ([<PessoaFisica: ('m', '47132176897')>],) e {}. Retornou None
+[2024-05-24 13:16:28] Função 'criar_conta' executada com argumentos (1, [<PessoaFisica: ('m', '47132176897')>], [<ContaCorrente: ('0001', '1', 'm')>]) e {}. Retornou None
+[2024-05-24 13:16:39] Função 'depositar' executada com argumentos ([<PessoaFisica: ('m', '47132176897')>],) e {}. Retornou None
+[2024-05-24 13:16:56] Função 'exibir_extrato' executada com argumentos ([<PessoaFisica: ('m', '47132176897')>],) e {}. Retornou None
