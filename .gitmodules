@@ -1,3 +1,6 @@
 [submodule "Projeto 4 - Sistema crossfit/workout_api"]
 	path = Projeto 4 - Sistema crossfit/workout_api
 	url = https://github.com/Matheusmatos2916/store_api.git
+[submodule "Projeto 5 - Sistema Comercial/store_api"]
+	path = Projeto 5 - Sistema Comercial/store_api
+	url = https://github.com/Matheusmatos2916/Projetos-DIO.git
